@@ -1,3 +1,3 @@
-module golang_submodule/sub
+module github.com/swiftlc/golang_submodule/sub
 
 go 1.14
